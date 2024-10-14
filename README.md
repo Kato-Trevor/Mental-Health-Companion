@@ -16,3 +16,5 @@ Mental Health Care in Uganda is associated with stigma from the society despite 
 
 ## Significance of the Project
 The AI-Powered Personalized Mental Health Companion offers a groundbreaking approach to mental health care by providing continuous, personalized support that adapts to the user. This project stands out due to it’s innovative approach to address the Third Sustainable Development Goal of the United Nations; Good Health and Well-Being. It has the potential to make a significant impact on mental health management, offering an accessible, cost-effective solution that empowers individuals to take control of their mental well-being.
+
+For effective task manangement of the project, we are using ClickUp. Here is a [link](https://app.clickup.com/9012283861/v/s/90121651068) to the ClickUp space that will entail the associated tasks for the project. 
